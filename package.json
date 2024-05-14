@@ -1,6 +1,6 @@
 {
   "name": "InfectedRoleplay",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "productName": "InfectedRoleplay Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Ambrouw, based on fork of Helios Launcher",
@@ -20,7 +20,7 @@
     "lint": "eslint --config .eslintrc.json ."
   },
   "engines": {
-    "node": "18.x.x"
+    "node": "20.x.x"
   },
   "dependencies": {
     "@electron/remote": "^2.1.2",
